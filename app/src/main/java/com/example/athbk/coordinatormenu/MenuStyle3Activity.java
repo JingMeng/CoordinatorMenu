@@ -1,8 +1,8 @@
-package com.example.athbk.coordinatormenu;
+﻿package com.example.athbk.coordinatormenu;
 
 import android.os.Bundle;
-import android.support.annotation.Nullable;
-import android.support.v7.app.AppCompatActivity;
+import androidx.annotation.Nullable;
+import androidx.appcompat.app.AppCompatActivity;
 
 import com.athbk.coordinatormenu.CoordinatorMenuLayout;
 import com.example.athbk.coordinatormenu.adapter.Menu3Adapter;
@@ -25,3 +25,4 @@ public class MenuStyle3Activity extends AppCompatActivity {
         menuLayout.setMenuAdapter(adapter);
     }
 }
+

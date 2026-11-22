@@ -1,6 +1,6 @@
-package com.example.athbk.coordinatormenu;
+﻿package com.example.athbk.coordinatormenu;
 
-import android.support.v7.app.AppCompatActivity;
+import androidx.appcompat.app.AppCompatActivity;
 import android.os.Bundle;
 
 import com.athbk.coordinatormenu.CoordinatorMenuLayout;
@@ -21,3 +21,4 @@ public class MenuStyle1Activity extends AppCompatActivity {
 
     }
 }
+
